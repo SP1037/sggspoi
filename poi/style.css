@@ -1,0 +1,31 @@
+body
+{
+	background-image: url(sun.jg);
+
+}
+
+
+.box
+{   
+	height:550px;
+	width: 400px;
+	/*border-radius: 10px;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	border-right: 2px solid #1b2725; 
+    border-left: 2px solid #1b2725; */
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+
+}
+.wrapper {
+    text-align: center;
+}
+
+.btn btn-primary {
+    position: absolute;
+    top: 50%;
+}
