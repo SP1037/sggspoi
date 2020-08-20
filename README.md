@@ -8,7 +8,4 @@
 
 + for Linux Users paste is "/var/www/html/sggspoi" start using !!
 
-+ Languages Used :
-              1.Core PHP
-              2.Web Technologies(HTML,CSS)
-              3.JavaScript
++ Languages Used : Core PHP | Web Technologies(HTML,CSS) | JavaScript
