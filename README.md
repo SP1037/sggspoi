@@ -6,3 +6,8 @@ No Need of Database and extra Server Management
 Download paste is "/htdocs/sggspoi" for XAMPP & start using
 
 for Linux Users paste is "/var/www/html/sggspoi" start using !!
+
+Languages Used :
+              1.Core PHP
+              2.Web Technologies(HTML,CSS)
+              3.JavaScript
